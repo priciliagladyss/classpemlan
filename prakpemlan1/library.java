@@ -18,7 +18,7 @@ public class library {
 
     public void teknologi(){
         library t1= new library("The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution", "Walter Isaacson" , 560, 2014);
-        // t1.tampillist();
+        t1.tampillist();
         library t2 = new library("Sapiens: A Brief History of Humankind" , "Yuval Noah", 464, 2011);
         t2.tampillist();
         library t3= new library("Steve Jobs", "Walter Isaacson", 656, 2011);
