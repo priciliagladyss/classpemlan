@@ -18,7 +18,7 @@ public class library {
 
     public void teknologi(){
         library t1= new library("The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution", "Walter Isaacson" , 560, 2014);
-        t1.tampillist();
+        // t1.tampillist();
         library t2 = new library("Sapiens: A Brief History of Humankind" , "Yuval Noah", 464, 2011);
         t2.tampillist();
         library t3= new library("Steve Jobs", "Walter Isaacson", 656, 2011);
@@ -34,7 +34,7 @@ public class library {
         f1.tampillist();
         library f2 = new library("Sophie's World", "Jostein Gaarder", 544, 1991);
         f2.tampillist();
-        library f3 = new library("The Republic" , "Plato", 416, 380);
+        library f3 = new library("The Republic" , "Plato", 417, 380);
         f3.tampillist();
         library f4 = new library("Thus Spoke Zarathustra", "Friedrich Nietzsche", 352, 1883);
         f4.tampillist();

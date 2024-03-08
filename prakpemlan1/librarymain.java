@@ -7,7 +7,7 @@ public class librarymain {
         Scanner scn = new Scanner(System.in);
         System.out.println("LIBRARY LIST: ");
         System.out.println("1. Teknologi "+ "\n2. Filsafat" +"\n3. Sejarah"+ "\n4. Agama" +"\n5. Psikologi"+ "\n6. Politik" + "\n7. Fiksi");
-        System.out.println("Masukkan nomor kategori untuk melihat list buku : ");
+        System.out.println("Masukkan nomor kategori untuk melihat list buku: ");
         int x = scn.nextInt();
 
         if (x==1){
